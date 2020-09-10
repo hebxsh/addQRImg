@@ -34,8 +34,8 @@ QRCode.addQRImg({
 /**
  * @param   url			(必填)二维码地址
  * @param   width   		二维码宽度	(默认256)
- * @param   colorDark		黑块颜色	(默认#000000)
- * @param   colorLight		白底颜色	(默认#ffffff)
+ * @param   colorDark		黑块颜色		(默认#000000)
+ * @param   colorLight		白底颜色		(默认#ffffff)
  * @param   correctLevel	纠错等级		(默认2, 1=7%,0=15%,3=20%,2=30%)
  * */
 QRCode.addQRImg({
