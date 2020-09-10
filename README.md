@@ -9,11 +9,11 @@ qrcode.js
 
 ```
 /**
- * @param   url				(必填)二维码地址
+ * @param   url		(必填)二维码地址
  * @param   imgdata 		(必填)二维码背景图(非跨域图片base64数据);
- * @param   width   		二维码宽度		(默认256)
- * @param   x       		二维码位置x		(默认0)
- * @param   y       		二维码位置y		(默认0)
+ * @param   width   		二维码宽度	(默认256)
+ * @param   x       		二维码位置x	(默认0)
+ * @param   y       		二维码位置y	(默认0)
  * @param   colorDark		黑块颜色		(默认#000000)
  * @param   colorLight		白底颜色		(默认#ffffff)
  * @param   correctLevel	纠错等级		(默认2, 1=7%,0=15%,3=20%,2=30%)
